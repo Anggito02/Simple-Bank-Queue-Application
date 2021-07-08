@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Queue
+comment0.text=\r\n\ Class\ Queue\r\n\r\n\ @author\ Anggito\ Anju\r\n\ @version\ 1.0\ -\ 7\ Mei\ 21\r\n
+comment1.params=
+comment1.target=Queue()
+comment2.params=name\ need
+comment2.target=void\ enqueue(java.lang.String,\ java.lang.String)
+comment3.params=
+comment3.target=void\ dequeue()
+comment4.params=
+comment4.target=int\ queue_size()
+comment5.params=
+comment5.target=void\ queue_view()
+numComments=6
